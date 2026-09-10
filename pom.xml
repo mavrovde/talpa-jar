@@ -17,7 +17,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
+        <spring-boot.version>2.5.15</spring-boot.version>
         <google.geo.version>1.47.1</google.geo.version>
         <compile.plugin.version>3.8.1</compile.plugin.version>
         <jar.plugin.version>3.1.0</jar.plugin.version>
